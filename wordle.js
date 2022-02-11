@@ -1,1 +1,1 @@
-javascript:alert(window.localStorage);
+javascript:alert(localStorage.getItem('nyt-wordle-state'));
